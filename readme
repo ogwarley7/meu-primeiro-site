@@ -1,0 +1,48 @@
+Atenção crie uma pasta com o main.html e cese.css e dentro dessa pasta crie uma pasta chada imagens e coloque a imagem dentro dessa pasta.
+assim
+Pasta_principal
+↳ main.html
+  cese.css
+  imagens(pasta)
+  ↳ bg-3.jpg
+# Curso SerFrontend
+
+Este repositório contém um exemplo de página HTML que explica as tecnologias fundamentais da web: **HTML**, **CSS** e **JavaScript**.
+
+## Descrição
+
+Esta página foi criada para fornecer uma introdução simples e informativa sobre as três principais tecnologias usadas para o desenvolvimento web. Nela, você encontrará links para aprender mais sobre cada uma dessas tecnologias.
+
+### Tecnologias abordadas:
+- **HTML (HyperText Markup Language)**: A estrutura da web.
+- **CSS (Cascading Style Sheets)**: Estilos e apresentação de páginas web.
+- **JavaScript (JS)**: Linguagem de programação para adicionar interatividade e dinamicidade às páginas web.
+
+### Links úteis:
+- **[SerFrontend - Início](https://serfrontend.com)** - Site principal
+- **[SerFrontend - Blog](https://serfrontend.com/blog/)** - Blog com conteúdos sobre desenvolvimento web
+- **[SerFrontend - Cursos](https://serfrontend.com/cursos/)** - Cursos para iniciantes e desenvolvedores
+
+## Como usar
+
+Para visualizar o site, basta abrir o arquivo `main.html` no seu navegador. Se desejar editar os arquivos ou usar seu próprio estilo, você pode modificar o arquivo `cese.css` (responsável pelos estilos da página).
+
+### Passos:
+1. Faça o clone do repositório ou baixe os arquivos.
+2. Abra o arquivo `main.html` em seu navegador.
+3. Explore as seções sobre **HTML**, **CSS** e **JavaScript**.
+
+## Contribuindo
+
+Se você deseja contribuir com melhorias, como adicionar mais conteúdos ou corrigir algum erro, siga os passos abaixo:
+
+1. Faça um **fork** deste repositório.
+2. Crie uma **branch** para a sua modificação (`git checkout -b minha-modificacao`).
+3. Faça as alterações necessárias.
+4. Faça o commit das suas alterações (`git commit -am 'Adicionando melhorias'`).
+5. Envie as alterações para o seu repositório (`git push origin minha-modificacao`).
+6. Abra um **Pull Request** para este repositório.
+
+## Licença
+
+Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
